@@ -15,8 +15,9 @@ Don't let the knowledge died.
 ## Debugger
 
 1. [dnSpy](https://www.youtube.com/watch?v=kJQP7kiw5Fk)
+2. [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/index)
 
 # Resources
 
-1. (tuts4you.com)[https://tuts4you.com/]
-2. (cracker.in.th)[https://www.cracker.in.th]
+1. [tuts4you.com](https://tuts4you.com/)
+2. [cracker.in.th](https://www.cracker.in.th)
