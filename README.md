@@ -22,6 +22,11 @@ Don't let the knowledge died.
 1. [HxD](https://mh-nexus.de/en/hxd/)
 2. [Hex Workshop](http://www.hexworkshop.com/) (not free) 
 
+## Detectors
+
+1. [Exeinfo PE](http://exeinfo.atwebpages.com/)
+2. [PEiD](https://www.aldeid.com/wiki/PEiD)
+
 # Resources
 
 1. [tuts4you.com](https://tuts4you.com/)
