@@ -17,6 +17,11 @@ Don't let the knowledge died.
 1. [dnSpy](https://www.youtube.com/watch?v=kJQP7kiw5Fk)
 2. [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/index)
 
+## File Scanners
+
+1. [HxD](https://mh-nexus.de/en/hxd/)
+2. [Hex Workshop](http://www.hexworkshop.com/) (not free) 
+
 # Resources
 
 1. [tuts4you.com](https://tuts4you.com/)
