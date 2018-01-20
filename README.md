@@ -21,6 +21,7 @@ Don't let the knowledge died.
 
 1. [HxD](https://mh-nexus.de/en/hxd/)
 2. [Hex Workshop](http://www.hexworkshop.com/) (not free) 
+3. [CFF Explorer](http://www.ntcore.com/exsuite.php)
 
 ## Detectors
 
