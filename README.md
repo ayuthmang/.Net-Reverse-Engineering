@@ -17,6 +17,11 @@ Don't let the knowledge died.
 1. [dnSpy](https://www.youtube.com/watch?v=kJQP7kiw5Fk)
 2. [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/index)
 
+## Process Explorer
+
+1. [Process Hacker](http://processhacker.sourceforge.net/)
+2. [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+
 ## File Scanners
 
 1. [HxD](https://mh-nexus.de/en/hxd/)
