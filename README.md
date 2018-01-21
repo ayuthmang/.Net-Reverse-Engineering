@@ -32,6 +32,11 @@ Resources, tools about .net reverse engineering.
 * [Exeinfo PE](http://exeinfo.atwebpages.com/)
 * [PEiD](https://www.aldeid.com/wiki/PEiD)
 
+## Protector
+
+* [ConfuserEx](https://github.com/yck1509/ConfuserEx)
+* [ILProtector](http://www.vgrsoft.com/Products/ILProtector) (not free)
+
 # Resources
 
 * [tuts4you.com](https://tuts4you.com/)
