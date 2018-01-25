@@ -9,7 +9,7 @@ Resources, tools about .net reverse engineering.
 * [dnSpy](https://www.youtube.com/watch?v=kJQP7kiw5Fk)
 * [SAE](https://github.com/wickyhu/simple-assembly-explorer)
 * [.NET Reflector](https://www.red-gate.com/products/dotnet-development/reflector/) (14-day trial)
-# [ILSpy](https://github.com/icsharpcode/ILSpy)
+* [ILSpy](https://github.com/icsharpcode/ILSpy)
 
 ## Debugger
 
