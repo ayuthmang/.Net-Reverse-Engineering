@@ -39,6 +39,10 @@ Resources, tools about .net reverse engineering.
 * [ILProtector](http://www.vgrsoft.com/Products/ILProtector) (not free)
 * [Smart Assembly](https://www.red-gate.com/products/dotnet-development/smartassembly/index) (not free)
 
+## Deobfuscator, Unpacker
+
+* [de4dot](https://github.com/0xd4d/de4dot)
+
 # Resources
 
 * [tuts4you.com](https://tuts4you.com/)
