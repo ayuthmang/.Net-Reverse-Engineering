@@ -43,6 +43,7 @@ Resources, tools about .net reverse engineering.
 ## Deobfuscator, Unpacker
 
 * [de4dot](https://github.com/0xd4d/de4dot)
+* [.NET Generic Unpacker](http://www.ntcore.com/netunpack.php)
 
 # Resources
 
