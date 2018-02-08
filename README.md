@@ -36,9 +36,13 @@ Resources, tools about .net reverse engineering.
 ## Protector
 
 * [ConfuserEx](https://github.com/yck1509/ConfuserEx)
+* [Confuser](https://archive.codeplex.com/?p=confuser) (archieved)
 * [ILProtector](http://www.vgrsoft.com/Products/ILProtector) (not free)
 * [Smart Assembly](https://www.red-gate.com/products/dotnet-development/smartassembly/index) (not free)
 * [dotNet Protector](http://dotnetprotector.pvlog.com/Downloads.aspx) (not free)
+* [Phoenix Protector](http://www.ntcore.com/phoenix.php)
+* [.NET Reactor](http://www.eziriz.com/dotnet_reactor.htm) (not free)
+* [DeepSea Obfuscator](http://www.rekings.com/deepsea-obfuscator-4-4-4-86-full-setup/) (not free)
 
 ## Deobfuscator, Unpacker
 
@@ -50,6 +54,3 @@ Resources, tools about .net reverse engineering.
 * [tuts4you.com](https://tuts4you.com/)
 * [cracker.in.th](https://www.cracker.in.th)
 * [Black Storm](https://board.b-at-s.info/)
-* [Phoenix Protector](http://www.ntcore.com/phoenix.php)
-* [.NET Reactor](http://www.eziriz.com/dotnet_reactor.htm)
-* [DeepSea Obfuscator](http://www.rekings.com/deepsea-obfuscator-4-4-4-86-full-setup/)
