@@ -51,3 +51,5 @@ Resources, tools about .net reverse engineering.
 * [cracker.in.th](https://www.cracker.in.th)
 * [Black Storm](https://board.b-at-s.info/)
 * [Phoenix Protector](http://www.ntcore.com/phoenix.php)
+* [.NET Reactor](http://www.eziriz.com/dotnet_reactor.htm)
+* [DeepSea Obfuscator](http://www.rekings.com/deepsea-obfuscator-4-4-4-86-full-setup/)
