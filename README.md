@@ -48,6 +48,7 @@ Resources, tools about .net reverse engineering.
 
 * [de4dot](https://github.com/0xd4d/de4dot)
 * [.NET Generic Unpacker](http://www.ntcore.com/netunpack.php)
+* [Unpackers Tools (CodeCracker) + Source Code](https://forum.tuts4you.com/topic/31899-unpackers-tools-source-code-c/)
 
 # Resources
 
