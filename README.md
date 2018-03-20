@@ -44,6 +44,10 @@ Resources, tools about .net reverse engineering.
 * [.NET Reactor](http://www.eziriz.com/dotnet_reactor.htm) (not free)
 * [DeepSea Obfuscator](http://www.rekings.com/deepsea-obfuscator-4-4-4-86-full-setup/) (not free)
 
+## Packer
+
+* [MPress](http://www.matcode.com/mpress.htm)
+
 ## Deobfuscator, Unpacker
 
 * [de4dot](https://github.com/0xd4d/de4dot)
