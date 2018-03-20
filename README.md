@@ -33,7 +33,7 @@ Resources, tools about .net reverse engineering.
 * [Exeinfo PE](http://exeinfo.atwebpages.com/)
 * [PEiD](https://www.aldeid.com/wiki/PEiD)
 
-## Protector
+## Obfucastor
 
 * [ConfuserEx](https://github.com/yck1509/ConfuserEx)
 * [Confuser](https://archive.codeplex.com/?p=confuser) (archieved)
@@ -43,7 +43,7 @@ Resources, tools about .net reverse engineering.
 * [Phoenix Protector](http://www.ntcore.com/phoenix.php)
 * [.NET Reactor](http://www.eziriz.com/dotnet_reactor.htm) (not free)
 * [DeepSea Obfuscator](http://www.rekings.com/deepsea-obfuscator-4-4-4-86-full-setup/) (not free)
-* [Babel Obfuscator](http://www.babelfor.net/Downloads)
+* [Babel Obfuscator](http://www.babelfor.net/Downloads) (free trial)
 
 ## Packer
 
