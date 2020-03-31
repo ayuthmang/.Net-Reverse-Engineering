@@ -58,5 +58,5 @@ Resources, tools about .net reverse engineering from my experience. Any suggesti
 # Resources
 
 * [tuts4you.com](https://tuts4you.com/)
-* [cracker.in.th](https://www.cracker.in.th)
-* [Black Storm](https://board.b-at-s.info/)
+* [cracker.in.th(inaccessible)](https://www.cracker.in.th)
+* [Black Storm(inaccessable)](https://board.b-at-s.info/) 
