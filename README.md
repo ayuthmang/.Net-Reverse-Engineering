@@ -45,6 +45,8 @@ Resources, tools about .net reverse engineering from my experience. Any suggesti
 * [DeepSea Obfuscator](http://www.rekings.com/deepsea-obfuscator-4-4-4-86-full-setup/) (not free)
 * [Babel Obfuscator](http://www.babelfor.net/Downloads) (free trial)
 
+More obfuscators are available in https://github.com/NotPrab/.NET-Obfuscator.
+
 ## Packer
 
 * [MPress](http://www.matcode.com/mpress.htm)
