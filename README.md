@@ -1,6 +1,7 @@
 # .Net-Reverse-Engineering
 
-Resources, tools about .net reverse engineering from my experience. Any suggestions and others please feel free to contribute and issue a pull request.
+Resources, tools about .net reverse engineering from my experience.\
+Any suggestions and others please feel free to contribute and issue a pull request.
 
 # Tools
 
